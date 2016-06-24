@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_dark">
+
+    <ListView
+        android:id="@+id/lv_left_menu"
+        android:layout_width="120dp"
+        android:layout_height="match_parent"
+        android:background="@android:color/background_dark"
+        android:layout_marginTop="60dp"/>
+
+</RelativeLayout>
